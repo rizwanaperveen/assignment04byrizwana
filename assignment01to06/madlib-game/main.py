@@ -1,0 +1,7 @@
+favourite_fruit = input("Enter your favourite fruit name: ")
+season = input("Enter season in which it can be found: ")
+taste = input("Enter taste: ")
+benefits = input("Enter benefits: ")
+print(f"\n My favourite fruit is {favourite_fruit}.")
+print(f" It is found in {season} season.")
+print(f" It has {taste} taste. It has {benefits}.")
